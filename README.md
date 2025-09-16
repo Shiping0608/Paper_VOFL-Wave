@@ -35,6 +35,9 @@ Wave propagation in heterogeneous media is studied in comparison to homogeneous 
 ├── requirements.md      # Dependencies
 └── README.md            # This file
 ```
+## How to Use
+- All code is executed through **text.m**, which generate the simulation data.
+- Separate plotting scripts are provided to produce the corresponding figures.
 
 ## Citation
 
