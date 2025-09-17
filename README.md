@@ -5,8 +5,8 @@
 **Publication:** to be updated
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/2311.13049)
+[![DOI](https://zenodo.org/badge/999894988.svg)](https://doi.org/10.5281/zenodo.17138117)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/999894988.svg)](https://doi.org/10.5281/zenodo.17138116)
 
 
 ## Abstract
